@@ -1,4 +1,4 @@
-# WhatsApp Clone - Flutter 📱
+# WhatsApp Chat Screen Clone - Flutter 📱
 
 A high-fidelity WhatsApp UI clone built with **Flutter**. This project focuses on implementing complex UI components, custom widgets, and a smooth user experience that mimics the original WhatsApp application.
 
@@ -7,13 +7,6 @@ A high-fidelity WhatsApp UI clone built with **Flutter**. This project focuses o
 - **Custom App Bar:** Custom-built navigation bar with user details and actions.
 - **Message Input Field:** Specialized text field with custom styling (no underlines) and icons.
 - **Asset Management:** Integrated custom backgrounds and user avatars.
-- **Theming:** Support for dark and light modes (if applicable).
-
-## 📸 Screenshots
-| Chat Screen | Home Screen |
-|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/Ziad-Gabriel/clone_WhatsApp/main/screenshots/chat_view.png" width="250"> | <img src="https://raw.githubusercontent.com/Ziad-Gabriel/clone_WhatsApp/main/screenshots/home_view.png" width="250"> |
-*(Note: Replace links with your actual screenshot paths)*
 
 ## 🛠️ Tech Stack
 - **Framework:** [Flutter](https://flutter.dev)
