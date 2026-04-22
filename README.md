@@ -11,7 +11,6 @@ A high-fidelity WhatsApp UI clone built with **Flutter**. This project focuses o
 ## 🛠️ Tech Stack
 - **Framework:** [Flutter](https://flutter.dev)
 - **Language:** [Dart](https://dart.dev)
-- **State Management:** (Mention what you use, e.g., Provider, Bloc, or GetX)
 
 ## ⚙️ Setup and Installation
 
